@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+notifications.log.jsonl
+dropstack.db
+*.db
+.pytest_cache/
